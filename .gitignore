@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+watchlogs.db
+watchlogs-log.db
+/.idea/.idea.Rong/.idea/.gitignore
+/.idea/.idea.Rong/.idea/encodings.xml
+/.idea/.idea.Rong/.idea/indexLayout.xml
+/.idea/.idea.Rong/.idea/vcs.xml
